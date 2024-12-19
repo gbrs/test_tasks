@@ -162,4 +162,4 @@ cython_debug/
 #.idea/
 
 # My ignores
-data/
+data_ignored/
